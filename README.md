@@ -18,13 +18,14 @@ please follow the instructions on how to **set up App-Only Tenant Permissions on
 
 Once you have checked and performed the instructions above, follow the instructions on setting this up below.
 
-# Instructions
-1. Make sure you've installed the latest version of Python (3.10.0+).
-2. Open command-prompt or terminal and install the Python library requirements by entering **"install.bat"**
-3. Once all requirements have finished installing, run the script by entering **"py main.py".**
-4. Select your method of authenticating (either username/password or client ID/Secret).
-5. Select your file download choices (include ALL files/folders/subfolders & their structure, or no folders and ONLY files).
-6. All downloaded files will be saved into the **"sharepoint_downloads"** folder within this project. 
+# Instructions (for Windows)
+1. Make sure you've installed the latest version of Python (3.10.0+) as well as Git (2.45.0+).
+2. Clone this project by entering the following in a command-prompt: **git clone https://github.com/neilcruz1/sharepoint-file-downloader.git**
+3. In the sharepoint-file-downloader folder, click and open the **"install.bat"** file to install Python libraries/requirements.
+5. Once all requirements have finished installing, click and open the **"main.bat"** file to run the script.
+6. Authenticate your SharePoint credentials in the program and proceed with your file downloading needs. 
+
+All downloaded files/folders will be saved into the **"sharepoint_downloads"** folder within your project. 
 
 # Libraries Used
 * Office365-REST-Python-Client 2.5.10
