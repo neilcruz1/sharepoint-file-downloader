@@ -1,4 +1,4 @@
-# SharePoiont File/Folder Downloader
+# SharePoint File/Folder Downloader
 A Python script that lets you download SharePoint files with their respective folders/subfolders, or ONLY the files themselves WITHOUT including their folders/subfolders.
 This script has been tested on Personal SharePoint sites. 
 
