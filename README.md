@@ -21,7 +21,7 @@ Once you have checked and performed the instructions above, follow the instructi
 # Instructions (for Windows)
 1. Make sure you've installed the latest version of Python (3.10.0+) as well as Git (2.45.0+).
 2. Clone this project by entering the following in a command-prompt: **git clone https://github.com/neilcruz1/sharepoint-file-downloader.git**
-3. In the sharepoint-file-downloader folder, click and open the **"install.bat"** file to install Python libraries/requirements.
+3. In the sharepoint-file-downloader folder, click and open the **"install.bat"** file to install Python libraries/requirements (You will only need to do this once)
 5. Once all requirements have finished installing, click and open the **"main.bat"** file to run the script.
 6. Authenticate your SharePoint credentials in the program and proceed with your file downloading needs. 
 
