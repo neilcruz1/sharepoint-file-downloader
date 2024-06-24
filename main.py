@@ -101,7 +101,6 @@ def enter_credentials():
         print('Please login with either your SharePoint "Username/Password" or "Client ID/Secret"')
         print('Press CTRL + C to terminate the program at any time\n')
         choice = str(input('Select [U/u] Username | [C/c] Client ID/Secret: '))
-    
         if choice.casefold() == 'u':
             clear_screen()
             username = str(input('Enter username: '))
