@@ -20,11 +20,11 @@ Once you have checked and performed the instructions above, follow the instructi
 
 # Instructions
 1. Make sure you've installed the latest version of Python (3.10.0+).
-2. Open command-prompt or terminal and install the Python library requirements by entering "install.bat"
-3. Once all requirements have finished installing, run the script by entering "py main.py" on Windows, or "python3 main.py" on Mac OSX.
+2. Open command-prompt or terminal and install the Python library requirements by entering **"install.bat"**
+3. Once all requirements have finished installing, run the script by entering **"py main.py".**
 4. Select your method of authenticating (either username/password or client ID/Secret).
 5. Select your file download choices (include ALL files/folders/subfolders & their structure, or no folders and ONLY files).
-6. All downloaded files will be saved into the "sharepoint_downloads" folder within this project. 
+6. All downloaded files will be saved into the **"sharepoint_downloads"** folder within this project. 
 
 # Libraries Used
 * Office365-REST-Python-Client 2.5.10
