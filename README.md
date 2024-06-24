@@ -7,10 +7,12 @@ This script has been tested on Personal SharePoint sites and currently only has 
 * CLIENT ID & CLIENT SECRET
 
 # PLEASE READ BEFORE YOU RUN SCRIPT:
-You may receive errors when logging in with your USERNAME AND PASSWORD to authenticate into your SharePoint site. **To solve this, disable Entra Admin Security Defaults** by following the directions with the link below:
+You may receive errors when logging in with your USERNAME AND PASSWORD to authenticate into your SharePoint site. 
+**To solve this, disable Entra Admin Security Defaults** by following the directions with the link below:
 * https://learn.microsoft.com/en-us/entra/fundamentals/security-defaults
 
-If you would like to use Client ID/Client Secret credentials to authenticate with, please follow the instructions on how to **set up App-Only Tenant Permissions on your SharePoint site** with the link below: 
+If you would like to use Client ID/Client Secret credentials to authenticate with, 
+please follow the instructions on how to **set up App-Only Tenant Permissions on your SharePoint site** with the link below: 
 * https://learn.microsoft.com/en-us/sharepoint/dev/solution-guidance/security-apponly-azureacs
 
 Once you have checked and performed the instructions above, follow the instructions on setting this up below.
