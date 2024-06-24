@@ -1,8 +1,8 @@
 # SharePoint File/Folder Downloader
-A Python script that lets you download SharePoint files with their respective folders/subfolders, or ONLY the files themselves WITHOUT including their folders/subfolders.
-This script has been tested on Personal SharePoint sites and currently only has the functionality to **download EVERY SINGLE FILE FROM A GIVEN SHAREPOINT SITE. **
+A Python script that lets you download **ALL SHAREPOINT FILES** including their respective folders/subfolders, or ONLY the files themselves WITHOUT any folders.
+This script has been tested on Personal SharePoint sites and currently only has the functionality to **download EVERY SINGLE FILE FROM A GIVEN SHAREPOINT SITE.**
 
-* You MUST HAVE SharePoint app permissions to authenticate and log in with either:
+You **MUST HAVE SharePoint app permissions to authenticate** and log in with either:
 * USERNAME & PASSWORD
 * CLIENT ID & CLIENT SECRET
 
