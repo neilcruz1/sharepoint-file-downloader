@@ -1,5 +1,5 @@
 # SharePoint File/Folder Downloader
-A Python script that lets you download **all SharePoint files** including their respective folders/subfolders, or ONLY the files themselves WITHOUT any folders.
+A Python script that lets you download **all SharePoint files** including their respective folders/subfolders, or ONLY the files themselves WITHOUT any folders with a given SharePoint site via authentication. 
 
 # Login
 ![](https://github.com/neilcruz1/sharepoint-file-downloader/blob/main/demo-gifs/login.gif)
